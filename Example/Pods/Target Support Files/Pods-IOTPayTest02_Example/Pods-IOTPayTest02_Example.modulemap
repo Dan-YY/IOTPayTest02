@@ -1,0 +1,6 @@
+framework module Pods_IOTPayTest02_Example {
+  umbrella header "Pods-IOTPayTest02_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

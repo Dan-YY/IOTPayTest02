@@ -1,0 +1,22 @@
+{
+  "name": "IOTPayTest02",
+  "version": "0.1.0",
+  "summary": "A short description of IOTPayTest02.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Dan-YY/IOTPayTest02",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Dan-YY": "dan@dansstudio.ca"
+  },
+  "source": {
+    "git": "https://github.com/Dan-YY/IOTPayTest02.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "IOTPayTest02/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module IOTPayTest02 {
+  umbrella header "IOTPayTest02-umbrella.h"
+
+  export *
+  module * { export * }
+}
